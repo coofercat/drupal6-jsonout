@@ -1,0 +1,29 @@
+/* $Id: footer.css,v 1.4 2009/05/13 11:14:06 robby Exp $ */
+/*  beginning drupal 6.x theme, 
+created by robin / biboo.net / gazwal.com */
+#footer {
+	border-top: 1px solid #bdbdbd;
+	background: #ececec;
+}
+
+#footer .footer-block {
+	float: left;
+	width: 300px;
+	margin: .8em 5px;
+}
+
+#footer .footer-block, #footer .block {
+	background-color: #ffffff;
+}
+
+/*  primary links in footer => div#bottom-primary  
+**************************************************/
+#bottom-primary {
+	border-top: 1px solid #bdbdbd;
+	background: #d7d5f2;
+}
+
+/*  footer message  */
+#footer-message {
+	padding: .4em;
+}
