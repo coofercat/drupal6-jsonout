@@ -41,6 +41,6 @@ function phptemplate_comment_wrapper($content, $node) {
     return "  ],\n" . '"comments": [' . $content;
 }
 
-function beginning_pager($tags = array(), $limit = 10, $element = 0, $parameters = array(), $quantity = 5) {
+function drupal6-jsonout_pager($tags = array(), $limit = 10, $element = 0, $parameters = array(), $quantity = 5) {
 	return '';
 }

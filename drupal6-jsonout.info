@@ -1,7 +1,5 @@
-; $Id: beginning.info,v 1.5 2010/09/03 15:58:18 robby Exp $
-; beginning drupal 6.x theme, created by robin / biboo.net / gazwal.com
-name = Beginning
-description = Starter theme by <a href="http://gazwal.com">gazwal.com</a>
+name = Jsonout
+description = Output Json instead of HTML
 version = 6.x-1.7
 core = 6.x
 engine = phptemplate
